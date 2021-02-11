@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier/blob/main/resources/Bottle%20Cap%20Classifier%20Video.png">
+<a href="https://youtu.be/CQq8yg9EMpc" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier/blob/main/resources/Bottle%20Cap%20Classifier%20Video.png"/></a> 
 
 - - - -
 
