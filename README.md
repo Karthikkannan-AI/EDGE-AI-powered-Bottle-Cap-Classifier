@@ -2,11 +2,11 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#solution)
-  * [Data Collection]()
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier#conclusion)
@@ -56,8 +56,7 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ### Data Collection ###
 
-We have chosen Bottled Drinks from two different manufacturers that had a similar flavor and package color.
-We have taken thousands of Images of the Bottled Drinks in different lighting conditions, different orientations, and different background environments.
+We have taken thousands of Images of the Cap in different lighting conditions, different orientations, and different background environments.
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier/blob/main/resources/Bottle%20Cap%20Classifier%20Labels.png">
 
