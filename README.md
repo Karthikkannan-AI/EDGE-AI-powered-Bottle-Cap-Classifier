@@ -17,9 +17,9 @@
 
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Bottled Drinks.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Bottle Caps.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Bottled Drinks.
+We have trained a Deep Learning-based Classification model to identify different types and makes of Bottle Caps.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
