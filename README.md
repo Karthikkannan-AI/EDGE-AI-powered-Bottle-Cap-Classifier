@@ -70,7 +70,7 @@ We have taken thousands of Images of the Cap in different lighting conditions, d
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/UK5VpvSs-IY" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier/blob/main/resources/Bottle%20Cap%20Classifier%20Video.png"/></a> 
+<a href="https://youtu.be/5cW5qCQnTGI" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottle-Cap-Classifier/blob/main/resources/Bottle%20Cap%20Classifier%20Video.png"/></a> 
 
 - - - -
 
